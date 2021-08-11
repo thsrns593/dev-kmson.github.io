@@ -1,12 +1,12 @@
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-rtd-theme"
+  spec.name          = "DEV-KMSON"
   spec.version       = "2.0.10"
-  spec.authors       = ["saowang"]
-  spec.email         = ["saowang@outlook.com"]
+  spec.authors       = ["devson"]
+  spec.email         = ["dev.kmson@gmail.com"]
 
-  spec.summary       = "Just another documentation theme compatible with GitHub Pages"
+  spec.summary       = "devson"
   spec.license       = "MIT"
-  spec.homepage      = "https://github.com/rundocs/jekyll-rtd-theme"
+  spec.homepage      = "https://dev-kmson.github.io"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
 
