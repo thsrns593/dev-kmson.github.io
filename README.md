@@ -1,7 +1,5 @@
-#DEV-KMSON
+# DEV-KMSON
 
 ---
 
-##devson
-
-devson
+devson vlog
