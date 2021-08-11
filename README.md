@@ -2,4 +2,4 @@
 
 ---
 
-devson vlog
+devson blog
