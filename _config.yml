@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            DEV-KMSON
+longtitle:        DEV-KMSON
+author:           devson
+email:            dev.kmson@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  devson blog
 
 version:          1.0
 gitbook_version:  3.2.3
